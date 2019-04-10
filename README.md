@@ -15,6 +15,7 @@
 | Name                   | URL                                                     | tag                                     |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------- |
 | Caleb Curry            |  https://www.youtube.com/user/CalebTheVideoMaker2       | programming, tutorial                   |
+| 오일석(기계학습)           | https://www.youtube.com/channel/UCMpRPu0OJjpoADoqhApEjrQ | machine learning                   |
 
 #Java Memory
 출처 : https://www.slideshare.net/JSUXDesign/java-82338809
