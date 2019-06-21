@@ -60,3 +60,6 @@
 | LocalDateTime.now()                            |       48 |                   72 |                   80 |
 | new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.S" ) |     1232 |                 1296 |                 1880 |
 | DateTimeFormatter.of("yyyy-MM-dd HH:mm:ss.S" ) |      432 |                  456 |                  704 |
+
+## 구글 머신러닝 스터디잼(심화) 가이드라인
+https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit
