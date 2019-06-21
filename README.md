@@ -61,5 +61,10 @@
 | new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.S" ) |     1232 |                 1296 |                 1880 |
 | DateTimeFormatter.of("yyyy-MM-dd HH:mm:ss.S" ) |      432 |                  456 |                  704 |
 
-## 구글 머신러닝 스터디잼(심화) 가이드라인
-https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit
+## 구글 머신러닝 스터디잼 가이드라인
+### 초급
+https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/
+### 중급
+https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw
+### 심화
+https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE
