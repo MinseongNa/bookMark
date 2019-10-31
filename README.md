@@ -16,6 +16,7 @@
 | ---------------------- | ------------------------------------------------------- | --------------------------------------- |
 | dbdiagram.io           | https://dbdiagram.io/home                               | database, diagram                       |
 | frisby.js              | https://www.frisbyjs.com                                | test, rest api, javascript              |
+| ngrok                  | https://ngrok.com/                                      | expose local server                     |
 
 # YouTube
 | Name                   | URL                                                     | tag                                     |
