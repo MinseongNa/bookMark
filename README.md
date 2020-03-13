@@ -82,3 +82,9 @@ https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtql
 https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw
 ### 심화
 https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE
+
+## Gradle 옵션
+org.gradle.daemon=true
+org.gradle.jvmargs=-Xmx4096m -XX:MaxPermSize=1024m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+org.gradle.parallel=true
+org.gradle.configureondemand=true
