@@ -88,3 +88,14 @@ org.gradle.daemon=true
 org.gradle.jvmargs=-Xmx4096m -XX:MaxPermSize=1024m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 org.gradle.parallel=true
 org.gradle.configureondemand=true
+
+## LOG차이
+https://dzone.com/articles/is-standard-java-logging-dead
+|slf4j |Log4j |Log4j2 |Logback |java.util.logging |
+|------|------|-------|--------|------------------|
+|FATAL |FATAL |FATAL  |-       |-                 |
+|ERROR |ERROR |ERROR  |ERROR   |SERVERE           |
+|WARN  |WARN  |WARN   |WARN    |WARNING           |
+|DEBUG |INFO  |INFO   |DEBUG   |INFO              |
+|INFO  |DEBUG |DEBUG  |INFO    |CONFIG<br/>FINE   |
+|TRACE |TRACE |TRACE  |TRACE   |FINER<br/>FINEST  |
